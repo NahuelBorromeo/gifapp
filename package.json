@@ -2,7 +2,7 @@
   "name": "gif-expert-app",
   "version": "0.1.0",
   "private": true,
-  "home": "https://nahuelborromeo.github.io/react-gifexpertapp/",
+  "home": "https://nahuelborromeo.github.io/react-gifexpertapp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
