@@ -23,6 +23,7 @@ export const AddCategory = ( {setCategories} ) => {
                 type="text"
                 value={ inputValue }
                 onChange={ handleInputChange }
+                placeholder="Ingrese su búsqueda de gifs"
             />
         </form>
     )
